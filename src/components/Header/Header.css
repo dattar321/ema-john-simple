@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+}
+.header img{
+    height: 80px;
+}
+nav{
+    line-height: 40px;
+    background-color: rgb(29, 29, 28);
+    font-size: 20px;
+    padding: 5px;
+
+}
+nav a{
+    text-decoration: none;
+    color:snow;
+    margin-right: 29px;
+    padding: 5px;
+}
+nav a:hover{
+    background-color: rgb(211, 211, 211);
+    border-radius: 5px;
+}
